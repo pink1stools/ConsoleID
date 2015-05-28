@@ -1,0 +1,7 @@
+c:\users\josh\documents\visual studio 2010\Projects\ConsoleID\ConsoleID\bin\Debug\ConsoleID.exe
+c:\users\josh\documents\visual studio 2010\Projects\ConsoleID\ConsoleID\bin\Debug\ConsoleID.pdb
+c:\users\josh\documents\visual studio 2010\Projects\ConsoleID\ConsoleID\obj\x86\Debug\ConsoleID.Form1.resources
+c:\users\josh\documents\visual studio 2010\Projects\ConsoleID\ConsoleID\obj\x86\Debug\ConsoleID.Properties.Resources.resources
+c:\users\josh\documents\visual studio 2010\Projects\ConsoleID\ConsoleID\obj\x86\Debug\ConsoleID.csproj.GenerateResource.Cache
+c:\users\josh\documents\visual studio 2010\Projects\ConsoleID\ConsoleID\obj\x86\Debug\ConsoleID.exe
+c:\users\josh\documents\visual studio 2010\Projects\ConsoleID\ConsoleID\obj\x86\Debug\ConsoleID.pdb
