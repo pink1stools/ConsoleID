@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ConsoleID")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Toshiba")]
+[assembly: AssemblyCompany("Pink1")]
 [assembly: AssemblyProduct("ConsoleID")]
-[assembly: AssemblyCopyright("Copyright © Toshiba 2015")]
+[assembly: AssemblyCopyright("Copyright © Pink1 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
